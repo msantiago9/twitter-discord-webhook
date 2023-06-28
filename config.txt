@@ -1,0 +1,7 @@
+# Edit this file to your specifications.
+# MODES:
+# IS_DEV="true"    This will enable dev mode. In dev mode, the app will look for the latest tweet and send it and then exit. Try this out to test if your webhook works.
+# IS_DEV="false"   This will enable reg mode. In reg mode, the app will run every 30 minutes and check to see if there is a new tweet since you started the app. Run this 24/7.
+WEBHOOK_URL=""
+TWITTER_HANDLE="AzurLane_EN"
+IS_DEV="false"

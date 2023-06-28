@@ -1,0 +1,19 @@
+beautifulsoup4==4.12.2
+certifi==2023.5.7
+charset-normalizer==3.1.0
+filelock==3.12.0
+idna==3.4
+lxml==4.9.2
+numpy==1.24.3
+pandas==2.0.1
+PySocks==1.7.1
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+pytz==2023.3
+requests==2.31.0
+six==1.16.0
+snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git@786815dd05681e2421cd03aa9acf5ab5c773bce9
+soupsieve==2.4.1
+tendo==0.3.0
+tzdata==2023.3
+urllib3==2.0.2
